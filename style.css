@@ -1,0 +1,17 @@
+footer{   
+    padding: 10rem 0px;
+}
+.wrapper-col-1 h1{
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+.wrapper-col-1 p{
+    font-size: 14px;
+    width: 90%;
+}
+
+.wrapper-icon img{
+    width: 25px;
+    margin-right: 1rem;
+}
